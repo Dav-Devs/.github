@@ -1,3 +1,10 @@
+<!-- <p align="center"> ![Golden Developments](https://raw.githubusercontent.com/Gold-Devs/.github/main/Gold%20Devs%20Logo.png) </p> -->
+<p align="center">
+    <a href="https://laravel.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/Gold-Devs/.github/main/svg/GD_021628.svg" 
+             width="400" />
+    </a>
+</p>
 
 <p align="center">Is proudly built with&hellip; </p>
 
@@ -8,9 +15,7 @@
     </a>
 </p>
 
-## Hi there 👋
-
-## I'm David Gold...
+## Hi there 👋, I'm David Gold...
 
 ### What is this organization all about...
 
@@ -26,8 +31,6 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-
-![Golden Developments](https://raw.githubusercontent.com/Gold-Devs/.github/main/Gold%20Devs%20Logo.png)
 
 <!-- ### 🍿 An interconnected community
 
