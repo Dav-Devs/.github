@@ -1,4 +1,4 @@
-## Hi there 👋, I'm David Gold
+## Hi there 👋
 
 <!-- <p align="center"> ![Golden Developments](https://raw.githubusercontent.com/Gold-Devs/.github/main/Gold%20Devs%20Logo.png) </p> -->
 
@@ -29,7 +29,11 @@ Have no idea? Open source software is made by people just like you. Learn [how t
 
 ### How do we plan to achieve it?
 
-Different web services such as photo editor, blog, AI chatbots... e.t.c. once built will be easily attached to the core system to become part of the web suite and once fully established we start taking in requests.
+Different web services such as photo editor, blog, AI chatbots... e.t.c. once built will be easily attached to the core system to become part of the web suite and once fully established we'll start taking in requests for more services.
+
+#### Generally its a _Dynamic Suite_
+
+<small>:copyright: 2022 *Golden Developments*, <b>David Gold.</b></small>
 
 <!--
 
@@ -44,6 +48,10 @@ Different web services such as photo editor, blog, AI chatbots... e.t.c. once bu
 
 <sub>🤫 Psst! Checkout my [portfolio](http://golddevs.zya.me).</sub>
 
-<sub>If anything is wrong with the [portfolio](http://golddevs.zya.me) don't hesitate to [contact me](http://golddevs.zya.me/contactme) or send an email opensc306@gmail.com with the subject: *Portfolio Site Error*.</sub>
+<sub>If anything is wrong with the [portfolio](http://golddevs.zya.me) don't hesitate to [contact me](http://golddevs.zya.me/contactme) or send an email to opensc306@gmail.com with the subject: *Portfolio Site Error*.</sub>
 
-<sub>Made with :blue_heart: from planet Earth</sub>
+<sub>
+
+Made with :blue_heart: from planet Earth
+
+</sub>
