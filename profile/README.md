@@ -6,7 +6,7 @@
 <br />
 
 <p align="center">
-    <a href="https://laravel.com" target="_blank">
+    <a href="https://github.com/Gold-Devs" target="_blank">
         <img src="https://raw.githubusercontent.com/Gold-Devs/.github/main/svg/GD_021628.svg" 
              width="400" />
     </a>
@@ -20,6 +20,8 @@
              width="400" />
     </a>
 </p>
+
+## 
 
 <!-- Have no idea we can help you get started! Open source software is made by people just like you. Learn more about [how to contribute](https://opensource.guide/). -->
 
