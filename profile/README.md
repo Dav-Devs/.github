@@ -1,4 +1,4 @@
-## Hi there 👋, I'm David Gold...
+## Hi there 👋, I'm David Gold
 
 <!-- <p align="center"> ![Golden Developments](https://raw.githubusercontent.com/Gold-Devs/.github/main/Gold%20Devs%20Logo.png) </p> -->
 
@@ -7,7 +7,7 @@
 
 <p align="center">
     <a href="https://github.com/Gold-Devs" target="_blank">
-        <img src="https://raw.githubusercontent.com/Gold-Devs/.github/main/svg/GD_021628.svg" 
+        <img src="https://raw.githubusercontent.com/Gold-Devs/.github/main/svg/GD_021628.svg"
              width="400" />
     </a>
 </p>
@@ -16,15 +16,16 @@
 
 <p align="center">
     <a href="https://laravel.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" 
+        <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg"
              width="400" />
     </a>
 </p>
 
-## 
+## What is this?
 
-<!-- Have no idea we can help you get started! Open source software is made by people just like you. Learn more about [how to contribute](https://opensource.guide/). -->
+_In shorts, <b>Golden Developments (Gold-Devs)</b> is a web suite system with different web services_
 
+Have no idea? Open source software is made by people just like you. Learn [how to contribute](https://opensource.guide/) :smiley:.
 
 <!--
 
@@ -37,9 +38,6 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
+<sub>🤫 Psst! Checkout my [portfolio](http://golddevs.zya.me).</sub>
 
-<!-- <sub>🤫 Psst! You can create your own [organization README](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile).</sub> -->
-
-<!--
-Made with 🖤
--->
+<sub>Made with :blue_heart: from planet Earth</sub>
