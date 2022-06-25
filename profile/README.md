@@ -27,6 +27,10 @@ _In shorts, <b>Golden Developments (Gold-Devs)</b> is a web suite system with di
 
 Have no idea? Open source software is made by people just like you. Learn [how to contribute](https://opensource.guide/) :smiley:.
 
+### How do we plan to achieve it?
+
+Different web services such as photo editor, blog, AI chatbots... e.t.c. once built will be easily attached to the core system to become part of the web suite and once fully established we start taking in requests.
+
 <!--
 
 **Here are some ideas to get you started:**
@@ -39,5 +43,7 @@ Have no idea? Open source software is made by people just like you. Learn [how t
 -->
 
 <sub>🤫 Psst! Checkout my [portfolio](http://golddevs.zya.me).</sub>
+
+<sub>If anything is wrong with the [portfolio](http://golddevs.zya.me) don't hesitate to [contact me](http://golddevs.zya.me/contactme) or send an email opensc306@gmail.com with the subject: *Portfolio Site Error*.</sub>
 
 <sub>Made with :blue_heart: from planet Earth</sub>
