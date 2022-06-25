@@ -12,7 +12,7 @@
     </a>
 </p>
 
-<h3 align="center">Is proudly built with&hellip; </h3>
+<h3 align="center">Is proudly built with... </h3>
 
 <p align="center">
     <a href="https://laravel.com" target="_blank">
