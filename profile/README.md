@@ -27,7 +27,7 @@ _In shorts, <b>Golden Developments (Gold-Devs)</b> is a web suite system with di
 
 Have no idea? Open source software is made by people just like you. Learn [how to contribute](https://opensource.guide/) :smiley:.
 
-### How do we plan to achieve it?
+### How do i plan to achieve it?
 
 Different web services such as photo editor, blog, AI chatbots... e.t.c. once built will be easily attached to the core system to become part of the web suite and once fully established we'll start taking in requests for more services.
 
